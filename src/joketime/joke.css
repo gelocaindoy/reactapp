@@ -1,0 +1,23 @@
+img{
+    max-width: 150px;
+    height: auto;
+}
+
+.space{
+    margin-left: 10px;
+}
+
+num{
+    position: relative;
+    top: 0;
+    margin-left: 5px;
+}
+
+svg{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 8%;
+    margin: 5px;
+    height: auto;
+}
